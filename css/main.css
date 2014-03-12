@@ -1,0 +1,17 @@
+body{
+    padding-top: 50px;
+}
+
+.banner-bg{
+    background-color: #eee;
+    padding: 20px 0 30px 0;
+    margin-bottom: 40px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+}
+
+.clear{
+    clear: both;
+}
