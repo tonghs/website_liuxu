@@ -24,7 +24,24 @@ body{
     box-shadow: 0 0 3px #eee,inset 0 0 3px #fff;
     background: #fbfbfb;
     padding: 20px;
-    width: 85%;
+}
+
+@media(min-width:768px) {
+    .single-panel {
+        width: 664px
+    }
+}
+
+@media(min-width:992px) {
+    .single-panel {
+        width: 814px
+    }
+}
+
+@media(min-width:1200px) {
+    .single-panel {
+        width: 1014px
+    }
 }
 
 .single-panel-header{
